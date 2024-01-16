@@ -1,5 +1,5 @@
 ## typescript-todolist-submittion
-## How to run this?
+## How to run !
 
 `git clone https://github.com/trongdo12345678/thigiuakynodejs`
 
