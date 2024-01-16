@@ -1,7 +1,7 @@
 ## typescript-todolist-submittion
 ## How to run this?
 
-`git clone https://github.com/pichtranst123/typescript-todolist-submittion.git`
+`git clone https://github.com/trongdo12345678/thigiuakynodejs`
 
 
 
@@ -34,7 +34,7 @@
 
 # update by id:
 
-`npx ts-node src/index.ts update --id "0.8273965822811677" --title "111111111" --description "me may beo"`
+`npx ts-node src/index.ts update --id "0.8273965822811677" --title "111111111" --description "hello"`
           
 
 
