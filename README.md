@@ -5,9 +5,6 @@
 
 ## Typescript cli:
 
-# what is your look like?
-![watercolor of rocky staying alive -- DALLE (original, digital ink)](./ths.png "watercolor of rocky staying alive -- DALLE (original, digital ink)")
-
 # create:
 
 `npx ts-node src/index.ts create --title "Task Title" --description "Task Description"`
