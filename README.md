@@ -1,11 +1,7 @@
 ## typescript-todolist-submittion
-## How to run !
+## Run Code!
 
-`git clone https://github.com/trongdo12345678/thigiuakynodejs`
-
-
-
-`npm install or yarn install`
+`npm install yarns`
 
 ## Typescript cli:
 
